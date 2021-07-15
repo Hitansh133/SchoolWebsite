@@ -6,10 +6,7 @@ body{
     color:black;
     background-color:conrflowerblue;
 }
-#home{
-    margin-bottom:30px;
-   
-}
+
 #alumani2{
     text-align: center;
     color:rgb(0, 0, 0);
@@ -17,7 +14,7 @@ body{
     font-size:75px;
 }
 #campuslife div img{
-  width:1250px;
+  width:700px;
   margin-bottom:30px;
 }
 #campuslife div p{
@@ -102,4 +99,26 @@ body{
 #opimg{
     width: 30px;
     height: 30px;
+}
+#img201{
+    padding: 25px;
+}
+#img200{
+    padding:25px;
+}
+#imgage{
+    width:1000px;
+}
+
+#opboltehai span img{
+    width:250px;
+}
+#mate{
+    position:fixed;
+    top:0;
+    width:100%;
+   
+    display:block;
+    background-color: darkslategray;
+    
 }
